@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/MHassaanButt/Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks" alt="Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks" />
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks" alt="tests" />
 </a>
 
 ### ☕ Get in touch
