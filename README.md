@@ -11,7 +11,7 @@
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Recommender-Sytems-Using-Trust-Based-Networks" alt="Recommender-Sytems-Using-Trust-Based-Networks" />
 </a>
 
-<a href="https://github.com/MHassaanButt/Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks">
+<a href="https://github.com/MHassaanButt/Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook">
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks" alt="Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks" />
 </a>
 
