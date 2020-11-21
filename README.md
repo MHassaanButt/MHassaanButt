@@ -17,7 +17,7 @@
 
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
-- Medium: <a href = "https://medium.com/@usamakhangt4">Usama Khan</a>
+- ResearchGate: <a href = "https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt">Muhammad Hassaan Farooq Butt</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/mhassaanbutt//">MHassaanButt</a>
 - Website: coming soon
 
