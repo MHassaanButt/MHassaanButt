@@ -12,7 +12,7 @@
 </a>
 
 <a href="https://github.com/MHassaanButt/PythonBasicCodePractice">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBooks" alt="tests" />
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=PythonBasicCodePractice" alt="tests" />
 </a>
 
 ### ☕ Get in touch
