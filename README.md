@@ -26,12 +26,12 @@
 
 ### Recently I'm coding in...
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/usamakhangt4?history_days=30)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MHassaanButt?history_days=30)
 
 <br>
 <br>
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/MHassaanButt/count.svg" />
+  <img src="https://profile-counter.glitch.me/usamakhangt4/count.svg" />
 </p>
