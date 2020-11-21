@@ -7,12 +7,12 @@
 
 ### My latest projects
 
-<a href="https://github.com/MHassaanButt/Recommender-Sytems-Using-Trust-Based-Networks">
-  <img align="middle" src="https://github.com/MHassaanButt/Recommender-Sytems-Using-Trust-Based-Networks" alt="Recommender-Sytems-Using-Trust-Based-Networks" />
+<a href="https://github.com/usamakhangt4/dad-jokes-app-using-next-js">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=usamakhangt4&repo=dad-jokes-app-using-next-js" alt="dad-jokes-app-using-next-js" />
 </a>
 
-<a href="https://github.com/MHassaanButt/Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook">
-  <img align="middle" src="https://github.com/MHassaanButt/Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook" alt="Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook" />
+<a href="https://github.com/usamakhangt4/covid19tracker">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=usamakhangt4&repo=covid19tracker" alt="covid19tracker" />
 </a>
 
 ### ☕ Get in touch
