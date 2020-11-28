@@ -11,8 +11,8 @@
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Recommender-Sytems-Using-Trust-Based-Networks" alt="Recommender-Sytems-Using-Trust-Based-Networks" />
 </a>
 
-<a href="https://github.com/MHassaanButt/PythonBasicCodePractice">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=PythonBasicCodePractice" alt="tests" />
+<a href="https://github.com/MHassaanButt/MathChallenge">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=MathChallenge" alt="tests" />
 </a>
 
 ### ☕ Get in touch
