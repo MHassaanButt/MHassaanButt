@@ -7,8 +7,8 @@
 
 ### My latest projects
 
-<a href="https://github.com/MHassaanButt/Recommender Sytem Based on Trusted Networks">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Recommender-Sytem-Based-on-Trusted-Networks" alt="Recommender-Sytems-Using-Trust-Based-Networks" />
+<a href="https://github.com/MHassaanButt/Trusted Network based RS">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Trusted-Networks-based-RS" alt="Recommender-Sytems-Using-Trust-Based-Networks" />
 </a>
 
 <a href="https://github.com/MHassaanButt/MathChallenge">
