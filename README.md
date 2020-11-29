@@ -9,6 +9,9 @@
 <a href="https://github.com/MHassaanButt/Petrol-Satation">
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Petrol-Satation" alt="tests" />
 </a>
+<a href="https://github.com/MHassaanButt/Project-Orient">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Project-Orient" alt="tests" />
+</a>
 <a href="https://github.com/MHassaanButt/MathChallenge">
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=MathChallenge" alt="tests" />
 </a>
