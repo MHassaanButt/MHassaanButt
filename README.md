@@ -24,8 +24,7 @@
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt">Muhammad Hassaan Farooq Butt</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/mhassaanbutt//">MHassaanButt</a>
 - Website: coming soon
-<br>
-<br>
+
 
 ### Recently I'm coding in...
 
