@@ -8,7 +8,7 @@
 ### My latest projects
 
 <a href="https://github.com/MHassaanButt/Petrol-Satation">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Petrol-Satation" alt="tests" />
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Petrol-Satation" alt="Petrol-Satation" />
 </a>
 <a href="https://github.com/MHassaanButt/Explainable & Tunable RS">
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Project-Orient" alt="tests" />
