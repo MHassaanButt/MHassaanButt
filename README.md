@@ -19,9 +19,6 @@
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Trusted-Networks-Based-RS" alt="tests" />
 </a>
 
-
-
-
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt">Muhammad Hassaan Farooq Butt</a>
