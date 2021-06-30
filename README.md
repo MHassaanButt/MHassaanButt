@@ -13,6 +13,12 @@
 <a href="https://github.com/MHassaanButt/Trusted-Networks-Based-RS">
   <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Trusted-Networks-Based-RS" alt="tests" />
 </a>
+<a href="https://github.com/MHassaanButt/Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Dataware-House-Data-Mining-Experimental-Guide-Source-Codes-GuideBook" alt="tests" />
+</a>
+<a href="https://github.com/MHassaanButt/MathChallenge">
+  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=MathChallenge" alt="tests" />
+</a>
 
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
