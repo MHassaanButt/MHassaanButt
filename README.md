@@ -1,19 +1,9 @@
 ### Hi there, I'm Muhammad Hassaan Farooq Butt! 👋
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-<a href="https://github.com/MHassaanButt">
-  <img src="https://github-readme-stats-sand-kappa.vercel.app/api?username=MHassaanButt&show_icons=true&count_private=true&include_all_commits=true" alt="MHassaanButt's GitHub Stats" />
-</a>
-
-### My latest projects
 
 
-<a href="https://github.com/MHassaanButt/Trusted-Networks-Based-RS">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=Trusted-Networks-Based-RS" alt="tests" />
-</a>
-<a href="https://github.com/MHassaanButt/MathChallenge">
-  <img align="middle" src="https://github-readme-stats-sand-kappa.vercel.app/api/pin/?username=MHassaanButt&repo=MathChallenge" alt="tests" />
-</a>
+
 
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
