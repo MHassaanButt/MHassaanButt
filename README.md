@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Hassaan Farooq Butt! 👋
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
+![Hassaan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MHassaanButt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff) 
 
 
 
@@ -15,7 +15,7 @@
 ### Recently I'm coding in...
 
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MHassaanButt?history_days=30)
-![Hassaan's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=MHassaanButt&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+ 
 <br>
 <br>
 
