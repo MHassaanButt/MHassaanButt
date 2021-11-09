@@ -8,6 +8,7 @@
 - LinkedIn: <a href = "https://www.linkedin.com/in/mhassaanbutt//">MHassaanButt</a>
 - Website: coming soon
 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
 <br/>
 
 ### Recently I'm coding in...
