@@ -5,7 +5,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
 
-<p align = "center">
+<p align = "center" style="margin:10px;">
   
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
