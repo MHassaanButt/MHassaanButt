@@ -1,7 +1,7 @@
 ### Hi there, I'm Muhammad Hassaan Farooq Butt! 👋
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
-
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MHassaanButt&show_icons=true&locale=en" /> </p>
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt">Muhammad Hassaan Farooq Butt</a>
@@ -15,7 +15,7 @@
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
 <br>
-<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MHassaanButt&show_icons=true&locale=en" /> </p>
+
 
 
 <p align="center">
