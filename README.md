@@ -13,6 +13,10 @@
 ![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/MHassaanButt?history_days=30)
  
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
+<br>
+<p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MHassaanButt&show_icons=true&locale=en" /> </p>
+
 
 <p align="center">
   Visitor count<br>
