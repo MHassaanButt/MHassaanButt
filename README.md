@@ -3,7 +3,7 @@
 <p> <img align="centre" src="https://github-readme-stats.vercel.app/api?username=MHassaanButt&show_icons=true&locale=en" /> </p>
 
 
-<p style="margin:10px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MHassaanButt&show_icons=true&locale=en&layout=compact" alt="MHassaanButt" /></p>
 
 <p align = "center">
   
