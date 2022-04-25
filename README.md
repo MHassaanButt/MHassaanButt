@@ -40,9 +40,6 @@
 <a href="https://www.docker.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 </a>
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
-</a>
 <a href="https://azure.microsoft.com/en-us/" target="_blank">
 <img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" width="50" height="30"/>
 </a>
