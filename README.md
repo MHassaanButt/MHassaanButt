@@ -12,7 +12,6 @@
 ### ☕ Get in touch
 - Gmail: <a href = "#">hassaanbutt67@gmail.com</a>
 - ResearchGate: <a href = "https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt">Muhammad Hassaan Farooq Butt</a>
-- Google Scholar: <a href = "https://scholar.google.com/citations?user=eED9C9wAAAAJ&hl=en">Muhammad Hassaan Farooq Butt</a>
 - LinkedIn: <a href = "https://www.linkedin.com/in/mhassaanbutt//">MHassaanButt</a>
 - Website: https://mhassaanbutt.github.io/
   
