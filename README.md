@@ -1,52 +1,71 @@
-<div align="center">
+```console
+hassaan@neural-net:~$ ssh -i ~/.keys/curiosity root@mhassaanbutt
+[ OK ] Loading tensors ............................. done
+[ OK ] Mounting /dev/gpu0 .......................... done
+[ OK ] Compiling coffee -> code .................... done
+[WARN] Sleep module not found, continuing without it
+Welcome, stranger. Session opened. 🟢
+```
 
-# `> whoami`
+```text
+ __  __ _   _ ____
+|  \/  | | | | __ )      Muhammad Hassaan Farooq Butt
+| |\/| | |_| |  _ \      ───────────────────────────
+| |  | |  _  | |_) |     role     : ML Engineer / Programmer
+|_|  |_|_| |_|____/      focus    : CV · LLMs/RAG · NLP · Multimodal
+                         shell    : python3 + a lot of CUDA
+                         status   : training something, probably
+```
 
-### Muhammad Hassaan Farooq Butt
+### `$ cat /etc/mission`
 
-**Programmer · Machine Learning · Data Science**
+```python
+while alive():
+    data   = collect(the_messy_real_world)
+    model  = train(data, patience=float("inf"))
+    ship(model, via="docker", served_by="triton")   # models that never leave notebooks are just diary entries
+    learn(from_=failures)
+```
 
-`Building with code, data, and curiosity.`
+### `$ ./skills --tree`
 
-</div>
+```python
+SKILLS = {
+    "ml_dl": [
+        "TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face", "OpenCV",
+    ],
+    "ai_applications": [
+        "Computer Vision", "LLMs / RAG", "NLP", "Multimodal Learning",
+    ],
+    "mlops_deployment": [
+        "MLflow", "Docker", "NVIDIA Triton", "FastAPI", "Git", "CI/CD",
+    ],
+    "data_cloud": [
+        "Python", "C++", "R", "SQL", "Azure", "GCP", "Linux",
+    ],
+}
+```
 
----
+```text
+ML & Deep Learning ▸ ████████████████████ TensorFlow · PyTorch · Scikit-learn · Hugging Face · OpenCV
+AI Applications    ▸ ████████████████████ Computer Vision · LLMs/RAG · NLP · Multimodal Learning
+MLOps & Deployment ▸ ████████████████████ MLflow · Docker · NVIDIA Triton · FastAPI · Git · CI/CD
+Data & Cloud       ▸ ████████████████████ Python · C++ · R · SQL · Azure · GCP · Linux
+```
 
-### `$ cat about.txt`
+### `$ nmap -p contact localhost`
 
-Hi! I'm Muhammad Hassaan Farooq Butt. I enjoy working with programming, machine learning, and data tools to explore ideas and build useful things.
+```text
+PORT      STATE  SERVICE
+25/smtp   open   hassaanbutt67@gmail.com
+443/https open   mhassaanbutt.github.io
+443/https open   linkedin.com/in/mhassaanbutt
+443/https open   researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt
+```
 
-### `$ ls skills/`
+[✉ Email](mailto:hassaanbutt67@gmail.com) · [🌐 Website](https://mhassaanbutt.github.io/) · [💼 LinkedIn](https://www.linkedin.com/in/mhassaanbutt/) · [🔬 ResearchGate](https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt)
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/C%2B%2B-0D1117?style=flat-square&logo=cplusplus&logoColor=00599C)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=ED8B00)
-
-**Machine learning & data**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0D1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![Keras](https://img.shields.io/badge/Keras-0D1117?style=flat-square&logo=keras&logoColor=D00000)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=150458)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626)
-
-**Tools & platforms**  
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
-![Azure](https://img.shields.io/badge/Azure-0D1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
-
-### `$ connect`
-
-- [Email](mailto:hassaanbutt67@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/mhassaanbutt/)
-- [ResearchGate](https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt)
-- [Website](https://mhassaanbutt.github.io/)
-
----
-
-<div align="center">
-
-`// Thanks for stopping by.`
-
-</div>
+```console
+hassaan@neural-net:~$ exit
+logout — Connection to mhassaanbutt closed. // go build something weird.
+```
