@@ -14,7 +14,7 @@
 [![Website](https://img.shields.io/badge/mhassaanbutt.github.io-0D1117?style=for-the-badge&logo=githubpages&logoColor=00FF41)](https://mhassaanbutt.github.io/)
 [![Scholar](https://img.shields.io/badge/Google_Scholar-0D1117?style=for-the-badge&logo=googlescholar&logoColor=4285F4)](https://scholar.google.com/citations?user=eED9C9wAAAAJ&hl=en)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-0D1117?style=for-the-badge&logo=researchgate&logoColor=00CCBB)](https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/mhassaanbutt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiByeD0iNCIgZmlsbD0iIzBBNjZDMiIvPjxjaXJjbGUgY3g9IjYuNSIgY3k9IjYuNSIgcj0iMiIgZmlsbD0iI2ZmZiIvPjxyZWN0IHg9IjQuNyIgeT0iOS41IiB3aWR0aD0iMy42IiBoZWlnaHQ9IjkuOCIgZmlsbD0iI2ZmZiIvPjxwYXRoIGZpbGw9IiNmZmYiIGQ9Ik0xMC4zIDkuNWgzLjR2MS40Yy42LTEgMS44LTEuNyAzLjQtMS43IDMgMCAzLjcgMiAzLjcgNC42djUuN2gtMy42di01YzAtMS4yIDAtMi42MDAtMS43MDAtMi42MDBzLTIgMS4yMDAtMiAyLjUwMHY1LjEwMGgtMy42MDB6Ii8+PC9zdmc+)](https://www.linkedin.com/in/mhassaanbutt/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:hassaanbutt67@gmail.com)
 
 </div>
@@ -41,7 +41,7 @@ hassaan@ml-lab:~$ ./status --now
 
 **`AI Applications`**  
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-0D1117?style=for-the-badge&logo=opencv&logoColor=00FF41)
-![LLMs/RAG](https://img.shields.io/badge/LLMs/RAG-0D1117?style=for-the-badge&logo=openai&logoColor=10A37F)
+![LLMs/RAG](https://img.shields.io/badge/LLMs/RAG-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzEwQTM3RiIgZD0iTTEyIDFsMi42MDAgNy40MDBMMjIgMTFsLTcuNDAwIDIuNjAwTDEyIDIxbC0yLjYwMC03LjQwMEwyIDExbDcuNDAwLTIuNjAweiIvPjxwYXRoIGZpbGw9IiMxMEEzN0YiIGQ9Ik0xOSAxNWwxIDIuNjAwTDIyLjYwMCAxOC42MDAgMjAgMTkuNjAwIDE5IDIyLjIwMCAxOCAxOS42MDAgMTUuNDAwIDE4LjYwMCAxOCAxNy42MDB6Ii8+PC9zdmc+)
 ![NLP](https://img.shields.io/badge/NLP-0D1117?style=for-the-badge&logo=spacy&logoColor=09A3D5)
 ![Multimodal Learning](https://img.shields.io/badge/Multimodal_Learning-0D1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
 
@@ -71,7 +71,7 @@ hassaan@ml-lab:~$ ./status --now
 | `> channel` | `> address` |
 |---|---|
 | Website | [mhassaanbutt.github.io](https://mhassaanbutt.github.io/) |
-| Google Scholar | [citations](https://scholar.google.com/citations?user=eED9C9wAAAAJ&hl=en) |
+| Google Scholar | [profile](https://scholar.google.com/citations?user=eED9C9wAAAAJ&hl=en) |
 | ResearchGate | [profile](https://www.researchgate.net/profile/Muhammad_Hassaan_Farooq_Butt) |
 | LinkedIn | [mhassaanbutt](https://www.linkedin.com/in/mhassaanbutt/) |
 | Email | [hassaanbutt67@gmail.com](mailto:hassaanbutt67@gmail.com) |
